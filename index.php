@@ -1,4 +1,4 @@
-<? php
+<?php
 
-    include_once("Login_page.html");
+include_once("Login_page.html");
 ?>
