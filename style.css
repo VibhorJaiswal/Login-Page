@@ -1,5 +1,7 @@
+*{font-family: 'Poppins', sans-serif;}
+
 .background-div{
- background-image: url('./Essets/vippng.com-png-backgrounds-1315066.png');
+ background-image: url('./Assets/background.png');
 }
 
 .box{
